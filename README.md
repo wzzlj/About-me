@@ -3,7 +3,7 @@
 I'm wzzlj.
 ![TOUXIANG](http://7xn3v1.com1.z0.glb.clouddn.com/IMG_1765.jpg)
 
-[知乎](www.zhihu.com)是我最近经常访问的网站。
+[知乎](www.zhihu.com "打开")是我最近经常访问的网站。
 
 ###我的经历
 - 我出生和成长在**温州**  
